@@ -1,0 +1,7 @@
+messageOne = input("Welcome to the Catcher Mission Log. Where was your mission? Please use spaces or it will deduct ponts off your Catchery grade.")
+print("Access Granted")
+messageTwo = input(" Enter all catches. Please use commas or it will deduct points off your Catchery grade.")
+print( "Access Granted")
+messageThree = input("Enter your name.")
+messageFour = input ("What's the date?")
+print ("Access Granted, Log complete." + messageOne + "/" + messageTwo + "/" + messageThree + "/" + messageFour)
